@@ -55,12 +55,12 @@ mounted(){
 }
 .cont_comp{ 
    margin-top:70px;
-   background-color: pink;
+   /*background-color: pink;*/
 }
 .comp{
     /*width:300px;*/
     margin-right: 15px;
     display:inline-block;
-    background-color: yellow;
+    /*background-color: yellow;*/
 }
 </style>
